@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[starflix-clone-project.vercel.app](starflix-clone-project.vercel.app)
+[starflix-clone-project.vercel.app](https://starflix-clone-project.vercel.app/)
 
 
 <h2>🧐 Features</h2>
